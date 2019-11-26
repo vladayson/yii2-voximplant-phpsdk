@@ -1,0 +1,21 @@
+{
+    "name": "vladayson/yii2-voximplant-phpsdk",
+    "description": "Voximplant Yii2",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","voximplant"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "vladayson",
+            "email": "vladaysin@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "vladayson\\voximplant\\": "src/"
+        }
+    }
+}
